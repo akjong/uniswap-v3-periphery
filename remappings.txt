@@ -1,1 +1,7 @@
 forge-std/=lib/forge-std/src/
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+ds-test/=lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/
+@uniswap/v2-core/contracts/=lib/uniswap-v2-core/src/
+@uniswap/v3-core/contracts/=lib/uniswap-v3-core/src/
+@uniswap/lib/contracts/libraries/=lib/uniswap-lib/src/
